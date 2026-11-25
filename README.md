@@ -100,6 +100,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -107,6 +108,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -126,11 +128,13 @@ Java Backend & Full Stack Developer | Bengaluru, India
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
