@@ -100,6 +100,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -137,6 +138,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -150,6 +152,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
