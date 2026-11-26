@@ -120,6 +120,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -148,6 +149,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
