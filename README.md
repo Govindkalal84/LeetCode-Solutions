@@ -119,6 +119,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -126,6 +127,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -144,4 +146,8 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
