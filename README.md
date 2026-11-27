@@ -102,6 +102,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | ------- |
 | [0011-container-with-most-water](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -155,6 +156,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | ------- |
 | [0011-container-with-most-water](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -162,9 +164,18 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
