@@ -108,6 +108,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | [0643-maximum-average-subarray-i](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -162,6 +163,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | [0075-sort-colors](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
