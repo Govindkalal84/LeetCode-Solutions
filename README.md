@@ -115,6 +115,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | [0977-squares-of-a-sorted-array](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,4 +210,5 @@ Java Backend & Full Stack Developer | Bengaluru, India
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
