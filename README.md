@@ -130,6 +130,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | [0125-valid-palindrome](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -163,6 +164,7 @@ Java Backend & Full Stack Developer | Bengaluru, India
 | [0075-sort-colors](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Govindkalal84/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
